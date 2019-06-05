@@ -11,3 +11,5 @@ Matériel :
  - Pompe hydraulique
  - Câbles
  - Pot de fleur avec réserve
+ - panneau solaire
+ - traqueur solaire
